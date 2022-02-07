@@ -1,0 +1,14 @@
+{
+  "name": "test-server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {}
+}
